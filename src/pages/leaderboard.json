@@ -1,0 +1,38 @@
+[
+	{
+		"id": 0,
+		"name": "KucingUMN",
+		"score": 1000,
+		"avatar": "https://media2.giphy.com/media/yFQ0ywscgobJK/giphy.gif?cid=948ce5086ok6r84howoyzyhc9th4077j6mmg5s3wxw34z7zy&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	},
+	{
+		"id": 1,
+		"name": "Axel",
+		"score": 400,
+		"avatar": "https://media4.giphy.com/media/VN8y4jVwZNuEmWEAUf/giphy.gif?cid=ecf05e47smyh1i6hulv4y10e17pxdwzlbkl4foux7z5zer6u&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	},
+	{
+		"id": 2,
+		"name": "Dzaky",
+		"score": 500,
+		"avatar": "https://media1.giphy.com/media/yVi2xVCKm8dJwBtpZK/giphy.gif?cid=ecf05e473doqg3aewntnd5zer4g371o1btclmp6yll7iv87v&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	},
+	{
+		"id": 3,
+		"name": "Batara",
+		"score": 600,
+		"avatar": "https://media4.giphy.com/media/kKUoc5lhM1OrkZcMeT/giphy.gif?cid=ecf05e473doqg3aewntnd5zer4g371o1btclmp6yll7iv87v&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	},
+	{
+		"id": 4,
+		"name": "Dikes",
+		"score": 450,
+		"avatar": "https://media1.giphy.com/media/C5dfDKlJNec1iJ33h7/giphy.gif?cid=ecf05e473doqg3aewntnd5zer4g371o1btclmp6yll7iv87v&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	},
+	{
+		"id": 5,
+		"name": "Efri",
+		"score": 450,
+		"avatar": "https://media1.giphy.com/media/Ggwm0tvq8Y1mlA8pDe/giphy.gif?cid=ecf05e47smyh1i6hulv4y10e17pxdwzlbkl4foux7z5zer6u&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+	}
+]
