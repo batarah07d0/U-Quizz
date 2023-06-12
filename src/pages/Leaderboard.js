@@ -30,10 +30,10 @@ export function Leaderboard() {
       <div className="bg-gradient-to-b from-[#CAF0F8] to-[#48CAE4] -z-50">
         <div className="bgPage w-full h-full z-0"></div>
         <div className="container mx-auto z-20">
-          <div className="relative lg:top-20 scale-75 lg:scale-105">
+          <div className="relative lg:top-5 lg:pb-10">
             <ClipPaperTitle2 title="Leaderboard" />
           </div>
-          <div className="flex gap-0 lg:gap-4 justify-center lg:pt-10 z-10 transition ease-in-out scale-90 lg:scale-125">
+          <div className="flex gap-0 lg:gap-5 justify-center lg:pt-10 z-10 transition ease-in-out scale-[80%] lg:scale-125">
             <LeaderboardItemTop
               no="1"
               id={sortedLeaderboardArr[0].id}
@@ -65,7 +65,7 @@ export function Leaderboard() {
               gradient="border-2 border-[#af8f5a] bg-gradient-to-br from-[#d3bda0] to-[#af8f5a]"
             />
           </div>
-          <div className="flex gap-4 flex-col pt-10 transition ease-in-out">
+          <div className="flex gap-4 flex-col pt-1 lg:pt-16 transition ease-in-out">
             {sortedLeaderboardArr.map((leaderboard, index) => {
               if (index > 2) {
                 return (
