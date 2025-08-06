@@ -1,7 +1,10 @@
 # Project UAS PTI - U-Quizz
 
 ### Link Landing Pages
-- https://uquizz.vercel.app
+- https://uquizz.vercel.apphttps://github.com/batarah07d0/U-Quizz/blob/master/README.md
+
+### Demo Video
+- https://youtu.be/ihanw6ZYdlI
 
 ### About Us
 1. Axel Reginald Wiranto - 00000078456 (Frontend)
