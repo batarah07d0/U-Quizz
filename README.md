@@ -1,4 +1,4 @@
-# U-Quizz 📝
+# U-Quizz
 Platform kuis interaktif yang dirancang untuk membuat dan berbagi kuis dengan mudah. Proyek ini dikembangkan sebagai Ujian Akhir Semester untuk mata kuliah Pengantar Teknologi Informasi.
 
 <p align="center">
