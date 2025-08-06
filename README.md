@@ -2,7 +2,7 @@
 Platform kuis interaktif yang dirancang untuk membuat dan berbagi kuis dengan mudah. Proyek ini dikembangkan sebagai Ujian Akhir Semester untuk mata kuliah Pengantar Teknologi Informasi.
 
 <p align="center">
-  <img src="Mockup%20Website.png" alt="Tampilan Website U-Quizz" width="600"/>
+  <img src="Tampilan%20Website.png" alt="Tampilan Website U-Quizz" width="600"/>
 </p>
 
 ## ✨ Latar Belakang Proyek
